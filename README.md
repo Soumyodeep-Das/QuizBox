@@ -3,4 +3,4 @@ QuizBox is a Java Swing-based quiz application that allows users to take quizzes
 This is my first project using java.
 
 
-![QuizBox](https://github.com/Soumyodeep-Das/QuizBox/assets/125487104/8741f61b-df55-4d0b-b9d6-fdab07623234)
+![QuizBox](https://github.com/Soumyodeep-Das/QuizBox/assets/125487104/24ed24be-8ad7-4fd8-9dcc-656103d48ff2)
